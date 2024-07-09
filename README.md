@@ -1,2 +1,4 @@
 # DLAC
-Detection of Latin alphabet characters
+# Detection of Latin alphabet characters
+
+Представлен код для систсем jupyter. Объектом разработки выступает система распознания символов латинского алфафита с применением алгоритмов машинного обучения.
